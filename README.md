@@ -1,1 +1,1 @@
-# a simple website for playing band
+# a simple website for playing band music
